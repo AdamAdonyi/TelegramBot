@@ -31,7 +31,7 @@ Run the script using python TelegramBot_Final.py.
 # Deployment (Optional):
 
 Consider deploying the bot to a cloud platform like Heroku or AWS for continuous operation.
-You'll need to update the script to handle environment variables for the bot token and potentially file storage paths.
+You will need to update the script to handle environment variables for the bot token and potentially file storage paths.
 Additional Notes:
 
 The script includes error handling and restarts the bot automatically in case of exceptions.
